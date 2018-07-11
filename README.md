@@ -8,8 +8,9 @@
 # 技能清單
 
 - app 開發：Swift/ Objective-C
-- iOS 開發工具: Xcode/ fabric/ lldb/ Reveal
+- iOS 開發工具: Xcode/ Fabric/ firebase/ lldb/ Reveal
 - 版本管理：Git/ SourceTree
+- 自動化：(xcodebuild/ shell)腳本打包上架
 - 其他：Python/ LineBot/ Postman
 
 ---
