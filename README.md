@@ -7,10 +7,10 @@
 
 # 技能清單
 
-- app 開發：Swift/Objective-C
-- iOS 開發工具: Xcode/fabric/lldb/Reveal
-- 版本管理：Git/SourceTree
-- 其他：Python/LineBot/postman
+- app 開發：Swift/ Objective-C
+- iOS 開發工具: Xcode/ fabric/ lldb/ Reveal
+- 版本管理：Git/ SourceTree
+- 其他：Python/ LineBot/ Postman
 
 ---
 
@@ -36,10 +36,12 @@
 
 # 作品集
  - 愛奇藝 iphone app 去廣告(免越獄安裝版)
+ - 台北搭捷運 app 遮蔽廣告(免越獄安裝版)
  - VAC 交友 app 
  - 自由時報 app 
  - Yes123 求職版 app 
  - Yes123 企業版 app 
+ - Yes123 打卡系統 app (無上架)
  - 記者發稿系統 (無上架)
  - iGPS車隊管理 app
  - 車隊定位追蹤 app (無上架) 
@@ -47,7 +49,7 @@
 
 ## 演講和講義
 
-swift 線上讀書會 - 分享ios逆向工程- Reveal基礎入門
+swift 線上讀書會 - 分享 iOS 逆向工程- Reveal基礎入門
 
 # 聯繫方式
 
