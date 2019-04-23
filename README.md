@@ -36,21 +36,23 @@
 * Git SourceTree 來控管版本等
 
 # 作品集
- - 愛奇藝 iphone app 去廣告(免越獄安裝版)
- - 台北搭捷運 app 遮蔽廣告(免越獄安裝版)
- - VAC 交友 app 
- - 自由時報 app 
- - Yes123 求職版 app 
- - Yes123 企業版 app 
- - Yes123 打卡系統 app (無上架)
- - 記者發稿系統 (無上架)
- - iGPS車隊管理 app
- - 車隊定位追蹤 app (無上架) 
- - 鐵捲門遙控 app (無上架)
+- 愛奇藝 iphone app 去廣告(免越獄安裝版)
+- 台北搭捷運 app 遮蔽廣告(免越獄安裝版)
+- VAC 交友 app
+- 自由時報 app
+- 愛健康 app
+- Yes123 求職版 企業版 app
+- Yes123 打卡系統 app (無上架)
+- 記者發稿系統 (無上架)
+- 車隊定位追蹤 app (無上架)
+- 鐵捲門遙控 app (無上架)
+- 地球村美日語 app
 
 ## 演講和講義
 
 swift 線上讀書會 - 分享 iOS 逆向工程- Reveal基礎入門
+- [IT-Home2019資安大會 - 在iOS 系統架構下，你的app 真的無堅不摧？讓我們一起來看app 裸奔吧](https://cyber.ithome.com.tw/speaker-page/5541#speakerModal)
+- [逢甲大學黑客社 - 概述iOS逆向攻擊](https://www.facebook.com/HackerSir.tw/)
 
 # 聯繫方式
 
