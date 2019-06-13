@@ -11,7 +11,8 @@
 - iOS 開發工具: Xcode/ Fabric/ firebase/ lldb/ Reveal
 - 版本管理：Git/ SourceTree
 - 自動化：(xcodebuild/ shell)腳本打包上架
-- 其他：Python/ LineBot/ Postman
+- 其他：Python/ LineBot/ Postman/ shell
+- 反編譯：ida pro/ Hopper/ logos/ CaptainHook
 
 ---
 
@@ -47,6 +48,7 @@
 - 車隊定位追蹤 app (無上架)
 - 鐵捲門遙控 app (無上架)
 - 地球村美日語 app
+- 整合 Logos 語言至 Xcode（高亮模糊提示） 
 
 ## 演講和講義
 
