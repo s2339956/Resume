@@ -12,7 +12,7 @@
 - 版本管理：Git/ SourceTree
 - 自動化：(xcodebuild/ shell)腳本打包上架
 - 其他：Python/ LineBot/ Postman/ shell
-- 反編譯：ida pro/ Hopper/ logos/ CaptainHook
+- 反編譯：ida pro/ Hopper/ logos/ CaptainHook/ LLVM
 
 ---
 
