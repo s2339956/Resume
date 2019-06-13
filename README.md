@@ -50,9 +50,10 @@
 
 ## 演講和講義
 
-swift 線上讀書會 - 分享 iOS 逆向工程- Reveal基礎入門
+- swift 線上讀書會 - 分享 iOS 逆向工程- Reveal基礎入門
 - [IT-Home2019資安大會 - 在iOS 系統架構下，你的app 真的無堅不摧？讓我們一起來看app 裸奔吧](https://cyber.ithome.com.tw/speaker-page/5541#speakerModal)
 - [逢甲大學黑客社 - 概述iOS逆向攻擊](https://www.facebook.com/HackerSir.tw/)
+- [2019亞太資訊安全論壇 - 雙平台下被刻板印象所忽略的手機app漏洞](https://www.informationsecurity.com.tw/Seminar/2019_all_01/)
 
 # 聯繫方式
 
