@@ -49,6 +49,8 @@
 - 鐵捲門遙控 app (無上架)
 - 地球村美日語 app
 - 整合 Logos 語言至 Xcode（高亮模糊提示） 
+- PxMart_PRO_FJB (越獄插件): [完美繞過全聯 PX Pay 越獄偵測機制，讓你完美使用全聯App](https://mrmad.com.tw/pxmartpro-fjb)
+
 
 ## 演講和講義
 
