@@ -2,6 +2,7 @@
 
  - 謝易致/1991, 本科/資訊工程系, 經驗/兩年
  - 住址：台北市內湖區
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=s2339956&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ---
 
