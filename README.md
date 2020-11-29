@@ -1,6 +1,6 @@
 # 個人訊息
 
- - 謝易致/1991, 本科/資訊工程系, 經驗/兩年
+ - 謝易致/1991, 本科/資訊工程系, 經驗/四年
  - 住址：台北市內湖區
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=s2339956&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
@@ -12,7 +12,7 @@
 - iOS 開發工具: Xcode/ Fabric/ firebase/ lldb/ Reveal
 - 版本管理：Git/ SourceTree
 - 自動化：(xcodebuild/ shell)腳本打包上架
-- 其他：Python/ LineBot/ Postman/ shell
+- 其他：Python/ LineBot/ Postman/ shell/ Docker/ Ubuntu
 - 反編譯：ida pro/ Hopper/ logos/ CaptainHook/ LLVM
 
 ---
@@ -64,9 +64,9 @@
 
 # 聯繫方式
 
-- Email：s2339956@gmail.com
+- Email：[s2339956@gmail.com](mailto:s2339956@gmail.com)
 - WeChat：s2339956
-- Line：s2339956
+- Line：[s2339956](https://line.me/ti/p/ZXf_HTvQbs)
 
 ---
 
