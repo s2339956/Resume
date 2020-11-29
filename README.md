@@ -53,6 +53,9 @@
 - PxMart_PRO_FJB (越獄插件): [完美繞過全聯 PX Pay 越獄偵測機制，讓你完美使用全聯App](https://mrmad.com.tw/pxmartpro-fjb)
 
 
+#### 其他作品
+- IP自動化分析產出word報告
+
 ## 演講和講義
 
 - swift 線上讀書會 - 分享 iOS 逆向工程- Reveal基礎入門
@@ -67,6 +70,7 @@
 - Email：[s2339956@gmail.com](mailto:s2339956@gmail.com)
 - WeChat：s2339956
 - Line：[s2339956](https://line.me/ti/p/ZXf_HTvQbs)
+
 
 ---
 
